@@ -1,5 +1,4 @@
 import unittest
-import operator
 from find_the_odd_int import find_it
 
 
