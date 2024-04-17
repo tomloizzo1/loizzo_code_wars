@@ -1,5 +1,4 @@
 import unittest
-import re
 from regex_pin_code import validate_pin
 
 
